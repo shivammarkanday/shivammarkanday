@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sample&label=Profile%20views&color=0e75b6&style=flat" alt="sample" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sample" target="blank"><img src="https://img.shields.io/twitter/follow/sample?logo=twitter&style=for-the-badge" alt="sample" /></a> </p>
-
 - 🔭 I’m currently working on [FeelGoodBot](https://github.com/shivammarkanday/FeelGoodBot)
 
 - 👯 I’m looking to collaborate on [NeuroTradeX](https://github.com/NikzRN01/neurotrader-hub)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivammarkanday](https://github.com/shivammarkanday)
 
-- 📫 How to reach me **sample@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
