@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [FeelGoodBot](https://github.com/shivammarkanday/FeelGoodBot)
 
-- 👯 I’m looking to collaborate on [NeuroTradeX](https://github.com/NikzRN01/neurotrader-hub)
-
 - 👨‍💻 All of my projects are available at [https://github.com/shivammarkanday](https://github.com/shivammarkanday)
 
 
