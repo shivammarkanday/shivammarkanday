@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <h1 align="center">Hi 👋, I'm Shivam Markanday</h1>
 <h3 align="center">A Student and a Developer</h3>
