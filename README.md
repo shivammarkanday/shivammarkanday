@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Shivam Markanday</h1>
 <h3 align="center">A Student and a Developer</h3>
 
