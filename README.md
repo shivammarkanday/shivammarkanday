@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList&height=150&section=header&text=Hey%20Everyone%20!&fontSize=60&fontAlignY=40&animation=fadeIn&desc=I'm%20Shivam%20Markanday&descAlignY=80&descSize=35)
-
+<p align="center">
+<img src="https://tenor.com/view/spiderman-spider-man-spiderverse-spider-verse-across-the-spiderverse-gif-3175286353734590042.gif" alt="Cat sandwich gif" width="650" />
+</p>
 <!-- <h1 align="center">Hi 👋, I'm Shivam Markanday</h1> -->
 <!-- <h3 align="center">A Student and a Developer</h3> -->
 
