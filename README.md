@@ -50,5 +50,5 @@
 <a href="https://twitter.com/markandayshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sample" height="30" width="40" /></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=footer
 )
