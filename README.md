@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=header&text=Hey%20Everyone&fontSize=70&fontAlignY=40&animation=scaleIn&desc=I'm%20Shivam%20Markanday&descAlignY=80&descSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList&height=150&section=header&text=Hey%20Everyone%20!&fontSize=60&fontAlignY=40&animation=fadeIn&desc=I'm%20Shivam%20Markanday&descAlignY=80&descSize=35)
 
 <!-- <h1 align="center">Hi 👋, I'm Shivam Markanday</h1> -->
 <!-- <h3 align="center">A Student and a Developer</h3> -->
