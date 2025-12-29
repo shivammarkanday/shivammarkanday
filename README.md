@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Hey%20Everyone%20!&fontSize=60&fontAlignY=40&animation=fadeIn&desc=I'm%20Shivam%20Markanday&descAlignY=80&descSize=35)
-<!-- <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNlNzFob2hhbmJocHhpcWVmenBwYjk1bGQ2aWxmeDUyZ3VndWk0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PlsZcNzfW6vQYBL1FS/giphy.gif" alt="Cat sandwich gif" width="650" />
-</p> -->
+<p align="center">
+<img src="https://tenor.com/view/spider-man-into-the-spider-verse-spider-man-spider-man-radioactive-spider-gif-23359140.gif" alt="Cat sandwich gif" width="300" />
+</p> 
 <!-- <h1 align="center">Hi 👋, I'm Shivam Markanday</h1> -->
-<h3 align="center">A Student and a Developer</h3> 
+<!-- <h3 align="center">A Student and a Developer</h3>  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sample&label=Profile%20views&color=0e75b6&style=flat" alt="sample" /> </p>
 
